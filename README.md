@@ -1,1 +1,1 @@
-# Git Practice (Version A)
+# Git Practice (Resolved)
